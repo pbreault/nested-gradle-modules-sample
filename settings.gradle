@@ -1,0 +1,1 @@
+include ':app', ':my-first-feature', ':my-second-feature', ':string-helpers', ':activity-helpers'
