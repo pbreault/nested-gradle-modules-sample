@@ -1,1 +1,5 @@
-include ':app', ':my-first-feature', ':my-second-feature', ':string-helpers', ':activity-helpers'
+include ':app',
+    ':feature:my-first-feature',
+    ':feature:my-second-feature',
+    ':helpers:string-helpers',
+    ':helpers:activity-helpers'
